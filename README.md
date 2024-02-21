@@ -1,5 +1,4 @@
 ### Hi there 👋,Mahadi Hasan
-#### Tiny App developer.
 ![Tiny App developer.](https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/427897551_122138259188085057_6354319216254671797_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_ohc=aF2S_Rb2JhwAX-1Yz82&_nc_ht=scontent.fdac146-1.fna&oh=00_AfC8PM8k8BE7DXMY7kfIspoOoa5xmyveB-9D6psjIFbCaw&oe=65CD426D)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
