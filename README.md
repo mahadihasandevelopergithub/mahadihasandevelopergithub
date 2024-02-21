@@ -1,9 +1,7 @@
 ### Hi there 👋,Mahadi Hasan
 #### Tiny App developer.
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: JS / HTML / CSS / xml /
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning App Development & web Development. 
 - 👯 I’m looking to collaborate on Github. 
